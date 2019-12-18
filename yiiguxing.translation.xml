@@ -1,0 +1,40 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Gets the validation mode for the specified {@link Resource}. If no explicit * validation mode has been configured then the validation mode is * {@link #detectValidationMode detected}." />
+      <item value="Gets the validation mode for the specified {@link Resource}. If no explicit" />
+      <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
+      <item value="Fail if we're already creating this bean instance:" />
+      <item value="We're assumably within a circular reference." />
+      <item value="Eagerly check singleton cache for manually registered singletons" />
+      <item value="Return an instance, which may be shared or independent, of the specified bean." />
+      <item value="Return whether this bean is a primary autowire candidate. * If this value is true for exactly one bean among multiple * matching candidates, it will serve as a tie-breaker." />
+      <item value="Process the given bean element, parsing the bean definition * and registering it with the registry." />
+      <item value="Parse the elements at the root level in the document: * &quot;import&quot;, &quot;alias&quot;, &quot;bean&quot;." />
+      <item value="Register each bean definition within the given root {@code &lt;beans/&gt;} element." />
+      <item value="Actually load bean definitions from the specified XML file." />
+      <item value="Return a description for this resource, * to be used for error output when working with the resource." />
+      <item value="Indicates that the validation mode should be detected automatically." />
+      <item value="Indicates that the validation should be disabled." />
+      <item value="Load bean definitions from the specified XML file." />
+      <item value="Create a new EncodedResource for the given Resource, * using the specified encoding." />
+      <item value="Create a new EncodedResource for the given Resource," />
+      <item value="Create a new AbstractBeanDefinitionReader for the given bean factory." />
+      <item value="etermine whether the given field is a &quot;public static final&quot; constant." />
+      <item value="Create a new Constants converter class wrapping the given class." />
+      <item value="Constants instance for this class" />
+      <item value="Map from serialized id to factory instance" />
+      <item value="Determine the raw name, resolving aliases to canonical names." />
+      <item value="canonical Name" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="25" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

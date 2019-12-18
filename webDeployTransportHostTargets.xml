@@ -1,0 +1,48 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="36e91798-8dca-4e39-8e81-cc7f8a0db5c7" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="4a9ecf2b-c8a2-48ea-8a69-88c9ed9e5ee7" />
+              <id>4a9ecf2b-c8a2-48ea-8a69-88c9ed9e5ee7</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="36e91798-8dca-4e39-8e81-cc7f8a0db5c7" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="bae2d8df-759e-423b-954e-ff96f39e86bc" />
+              <id>bae2d8df-759e-423b-954e-ff96f39e86bc</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="0afb91c8-5e78-4a04-953e-77e4a23bef68" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="f37fa1d4-745b-41ed-929b-e0d27488cbb4" />
+              <id>f37fa1d4-745b-41ed-929b-e0d27488cbb4</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="0afb91c8-5e78-4a04-953e-77e4a23bef68" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="b63d4017-fd45-474a-b8e3-19cc0402c440" />
+              <id>b63d4017-fd45-474a-b8e3-19cc0402c440</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/developer/apache-tomcat-7.0.73/webapps" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>
