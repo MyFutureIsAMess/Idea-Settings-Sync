@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="19:22 Iedis: A network is required to use Iedis or you may need to upgrade the plugin to the latest version." />
       <item value="Gets the validation mode for the specified {@link Resource}. If no explicit * validation mode has been configured then the validation mode is * {@link #detectValidationMode detected}." />
       <item value="Gets the validation mode for the specified {@link Resource}. If no explicit" />
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
@@ -30,7 +31,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
