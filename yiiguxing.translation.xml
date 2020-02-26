@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pairing of a name and the {@link org.eclipse.jgit.lib.ObjectId} it currently * has. * &lt;p&gt; * A ref in Git is (more or less) a variable that holds a single object * identifier. The object identifier can be any valid Git object (blob, tree, * commit, annotated tag, ...). * &lt;p&gt; * The ref name has the attributes of the ref that was asked for as well as the * ref it was resolved to for symbolic refs plus the object id it points to and * (for tags) the peeled target object id, i.e. the tag resolved recursively * until a non-tag object is referenced." />
+      <item value="The ref name has the attributes of the ref that was asked for as well as the * ref it was resolved to for symbolic refs plus the object id it points to and * (for tags) the peeled target object id, i.e. the tag resolved recursively * until a non-tag object is referenced." />
+      <item value="A ref in Git is (more or less) a variable that holds a single object * identifier. The object identifier can be any valid Git object (blob, tree, * commit, annotated tag, ...)." />
+      <item value="This class is intended to be used internally (e.g. by JGit tests) or by * external components (EGit, third-party tools) when they need exactly the * functionality of a GitPorcelain command. There are use-cases where this class * is not optimal and where you should use the more low-level JGit classes. The * methods in this class may for example offer too much functionality or they * offer the functionality with the wrong arguments." />
       <item value="19:22 Iedis: A network is required to use Iedis or you may need to upgrade the plugin to the latest version." />
       <item value="Gets the validation mode for the specified {@link Resource}. If no explicit * validation mode has been configured then the validation mode is * {@link #detectValidationMode detected}." />
       <item value="Gets the validation mode for the specified {@link Resource}. If no explicit" />
@@ -30,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
