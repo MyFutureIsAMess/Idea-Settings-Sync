@@ -1,5 +1,5 @@
 <application>
   <component name="MusicConfig">
-    <option name="algorithmType" value="SEQUENTIAL" />
+    <option name="midiDir" value="D:\DeveloperTools\JetBrains\.intellij-fancy-music-plugin" />
   </component>
 </application>
