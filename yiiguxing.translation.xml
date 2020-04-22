@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Annotation for handling exceptions in specific handler classes and/or * handler methods. Provides consistent style between Servlet and Portlet * environments, with the semantics adapting to the concrete environment." />
       <item value="Pairing of a name and the {@link org.eclipse.jgit.lib.ObjectId} it currently * has. * &lt;p&gt; * A ref in Git is (more or less) a variable that holds a single object * identifier. The object identifier can be any valid Git object (blob, tree, * commit, annotated tag, ...). * &lt;p&gt; * The ref name has the attributes of the ref that was asked for as well as the * ref it was resolved to for symbolic refs plus the object id it points to and * (for tags) the peeled target object id, i.e. the tag resolved recursively * until a non-tag object is referenced." />
       <item value="The ref name has the attributes of the ref that was asked for as well as the * ref it was resolved to for symbolic refs plus the object id it points to and * (for tags) the peeled target object id, i.e. the tag resolved recursively * until a non-tag object is referenced." />
       <item value="A ref in Git is (more or less) a variable that holds a single object * identifier. The object identifier can be any valid Git object (blob, tree, * commit, annotated tag, ...)." />
@@ -35,7 +36,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
